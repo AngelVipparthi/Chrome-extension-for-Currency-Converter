@@ -12,7 +12,7 @@ This is a real-time currency converter application built using JavaScript. It al
 ## Getting Started
 1. Clone the repository:
    ```shell
-   git clone https://github.com/yourusername/currency-converter.git
+   https://github.com/AngelVipparthi/Chrome-extension-for-Currency-Converter.git
 
 ## Usage
 Enter the amount you want to convert in USD.
